@@ -58,7 +58,8 @@ export default class App extends React.Component {
       movieBackdrop: "",
       movieTitle: null,
       movieVotes: "",
-      movieOverview: ""
+      movieOverview: "",
+      movieBlank: ""
 
     }
 
